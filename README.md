@@ -103,8 +103,8 @@ Starting a computer institute today is not just about setting up classrooms. You
 
 Instead of building everything from scratch, many people are choosing structured models.
 
-👉 You can check one such complete setup here: [
-[Apply for Computer Institute Franchise](https://isdmgroup.in/inviting-franchise-partners/)](url)
+👉 You can check one such complete setup here: 
+[Apply for Computer Institute Franchise](https://isdmgroup.in/inviting-franchise-partners/)
 
 ## Why This Matters for Entrepreneurs
 
@@ -133,13 +133,12 @@ If someone wants to build a system-driven institute, they should focus on:
 For those interested in understanding how such systems are structured in practice, 
 you can explore this example:
 
-👉 [https://isdmgroup.in/](url)
+👉 https://isdmgroup.in/
 ## Additional Resource
 
 A more detailed breakdown of building and scaling a computer institute can be found here:
 
-👉 [https://isdmgroup.in/inviting-franchise-partners/](url)
-
+👉 https://isdmgroup.in/inviting-franchise-partners/
 
 
 ## Conclusion :
